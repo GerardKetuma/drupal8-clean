@@ -1,0 +1,684 @@
+          ok  Starting native_osx for sync docker-sync
+          ok  docker-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: docker-sync
+          ok  Starting native_osx for sync docker-sync
+          ok  docker-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: docker-sync
+[2018-09-07 23:58:20 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:58:19.88 on 07 Sep 2018
+[2018-09-07 23:58:20 -0500] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-09-07 23:58:20 -0500] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-09-07 23:58:20 -0500] Sync Log:  [BGN] Updating file .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-09-07 23:58:20 -0500] Sync Log:  [END] Updating file .docker-sync/daemon.pid
+[2018-09-07 23:58:20 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:58:19.89 on 07 Sep 2018
+[2018-09-07 23:58:20 -0500] Sync Log:  Synchronization complete at 23:58:19  (2 items transferred, 0 skipped, 0 failed)
+[2018-09-07 23:58:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:58:21.13 on 07 Sep 2018
+[2018-09-07 23:58:22 -0500] Sync Log:  [BGN] Deleting testme.yml from /app_sync
+[2018-09-07 23:58:22 -0500] Sync Log:  [END] Deleting testme.yml
+[2018-09-07 23:58:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:58:21.13 on 07 Sep 2018
+[2018-09-07 23:58:22 -0500] Sync Log:  Synchronization complete at 23:58:21  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-07 23:58:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:58:40.40 on 07 Sep 2018
+[2018-09-07 23:58:41 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-07 23:58:41 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-07 23:58:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:58:40.41 on 07 Sep 2018
+[2018-09-07 23:58:41 -0500] Sync Log:  Synchronization complete at 23:58:40  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-07 23:59:00 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:58:59.44 on 07 Sep 2018
+[2018-09-07 23:59:00 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-07 23:59:00 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-07 23:59:00 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:58:59.44 on 07 Sep 2018
+[2018-09-07 23:59:00 -0500] Sync Log:  Synchronization complete at 23:58:59  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-07 23:59:48 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:59:47.19 on 07 Sep 2018
+[2018-09-07 23:59:48 -0500] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5b9355c91b4e3_views-mini-pager.html.twi_V8lim-NN0QAKwvUeSx-Im2-iY from /app_sync to /host_sync
+[2018-09-07 23:59:48 -0500] Sync Log:  [END] Copying web/sites/default/files/php/twig/5b9355c91b4e3_views-mini-pager.html.twi_V8lim-NN0QAKwvUeSx-Im2-iY
+[2018-09-07 23:59:48 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:59:47.21 on 07 Sep 2018
+[2018-09-07 23:59:48 -0500] Sync Log:  Synchronization complete at 23:59:47  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-07 23:59:49 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:59:48.29 on 07 Sep 2018
+[2018-09-07 23:59:49 -0500] Sync Log:  [BGN] Copying web/sites/default/files/js/js_Gg-GMH1Iu-s3rtmT1YJs3Dn3AL-FVoevT1Qt-0cHylo.js from /app_sync to /host_sync
+[2018-09-07 23:59:49 -0500] Sync Log:  [END] Copying web/sites/default/files/js/js_Gg-GMH1Iu-s3rtmT1YJs3Dn3AL-FVoevT1Qt-0cHylo.js
+[2018-09-07 23:59:49 -0500] Sync Log:  [BGN] Copying web/sites/default/files/js/js_Gg-GMH1Iu-s3rtmT1YJs3Dn3AL-FVoevT1Qt-0cHylo.js.gz from /app_sync to /host_sync
+[2018-09-07 23:59:49 -0500] Sync Log:  [END] Copying web/sites/default/files/js/js_Gg-GMH1Iu-s3rtmT1YJs3Dn3AL-FVoevT1Qt-0cHylo.js.gz
+[2018-09-07 23:59:49 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:59:48.31 on 07 Sep 2018
+[2018-09-07 23:59:49 -0500] Sync Log:  Synchronization complete at 23:59:48  (2 items transferred, 0 skipped, 0 failed)
+[2018-09-08 00:00:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:00:04.49 on 08 Sep 2018
+[2018-09-08 00:00:05 -0500] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5b9355c91b4e3_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB from /app_sync to /host_sync
+[2018-09-08 00:00:05 -0500] Sync Log:  [END] Copying web/sites/default/files/php/twig/5b9355c91b4e3_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB
+[2018-09-08 00:00:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:00:04.50 on 08 Sep 2018
+[2018-09-08 00:00:05 -0500] Sync Log:  Synchronization complete at 00:00:04  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-08 00:00:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:00:05.59 on 08 Sep 2018
+[2018-09-08 00:00:06 -0500] Sync Log:  [BGN] Copying web/sites/default/files/js/js_6_Va8yKYQHUcXbhZATvQVFfRr17eK8giDut9fQU34yo.js from /app_sync to /host_sync
+[2018-09-08 00:00:06 -0500] Sync Log:  [END] Copying web/sites/default/files/js/js_6_Va8yKYQHUcXbhZATvQVFfRr17eK8giDut9fQU34yo.js
+[2018-09-08 00:00:06 -0500] Sync Log:  [BGN] Copying web/sites/default/files/js/js_6_Va8yKYQHUcXbhZATvQVFfRr17eK8giDut9fQU34yo.js.gz from /app_sync to /host_sync
+[2018-09-08 00:00:06 -0500] Sync Log:  [END] Copying web/sites/default/files/js/js_6_Va8yKYQHUcXbhZATvQVFfRr17eK8giDut9fQU34yo.js.gz
+[2018-09-08 00:00:06 -0500] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5b9355c91b4e3_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw from /app_sync to /host_sync
+[2018-09-08 00:00:06 -0500] Sync Log:  [END] Copying web/sites/default/files/php/twig/5b9355c91b4e3_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw
+[2018-09-08 00:00:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:00:05.62 on 08 Sep 2018
+[2018-09-08 00:00:06 -0500] Sync Log:  Synchronization complete at 00:00:05  (3 items transferred, 0 skipped, 0 failed)
+[2018-09-08 00:09:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:09:19.13 on 08 Sep 2018
+[2018-09-08 00:09:19 -0500] Sync Log:  [BGN] Updating file web/sites/default/settings.php from /host_sync to /app_sync
+[2018-09-08 00:09:19 -0500] Sync Log:  [END] Updating file web/sites/default/settings.php
+[2018-09-08 00:09:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:09:19.14 on 08 Sep 2018
+[2018-09-08 00:09:19 -0500] Sync Log:  Synchronization complete at 00:09:19  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-08 00:09:38 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:09:37.76 on 08 Sep 2018
+[2018-09-08 00:09:38 -0500] Sync Log:  [BGN] Updating file web/sites/default/settings.php from /host_sync to /app_sync
+[2018-09-08 00:09:38 -0500] Sync Log:  [END] Updating file web/sites/default/settings.php
+[2018-09-08 00:09:38 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:09:37.76 on 08 Sep 2018
+[2018-09-08 00:09:38 -0500] Sync Log:  Synchronization complete at 00:09:37  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-08 00:09:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:09:52.15 on 08 Sep 2018
+[2018-09-08 00:09:52 -0500] Sync Log:  [BGN] Updating file web/sites/default/settings.php from /host_sync to /app_sync
+[2018-09-08 00:09:52 -0500] Sync Log:  [END] Updating file web/sites/default/settings.php
+[2018-09-08 00:09:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:09:52.16 on 08 Sep 2018
+[2018-09-08 00:09:52 -0500] Sync Log:  Synchronization complete at 00:09:52  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-09 16:26:37 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:26:36.81 on 09 Sep 2018
+[2018-09-09 16:26:37 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-09 16:26:37 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-09 16:26:37 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:26:36.81 on 09 Sep 2018
+[2018-09-09 16:26:37 -0500] Sync Log:  Synchronization complete at 16:26:36  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-09 16:26:57 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:26:56.67 on 09 Sep 2018
+[2018-09-09 16:26:57 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-09 16:26:57 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-09 16:26:57 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:26:56.68 on 09 Sep 2018
+[2018-09-09 16:26:57 -0500] Sync Log:  Synchronization complete at 16:26:56  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync docker-sync
+          ok  docker-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: docker-sync
+[2018-09-10 17:25:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:26:36.81 on 09 Sep 2018
+[2018-09-10 17:25:43 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-10 17:25:43 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-10 17:25:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:26:36.81 on 09 Sep 2018
+[2018-09-10 17:25:43 -0500] Sync Log:  Synchronization complete at 16:26:36  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 17:25:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 16:26:56.67 on 09 Sep 2018
+[2018-09-10 17:25:43 -0500] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2018-09-10 17:25:43 -0500] Sync Log:  [END] Updating file README.md
+[2018-09-10 17:25:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 16:26:56.68 on 09 Sep 2018
+[2018-09-10 17:25:43 -0500] Sync Log:  Synchronization complete at 16:26:56  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 17:26:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:26:05.49 on 10 Sep 2018
+[2018-09-10 17:26:06 -0500] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-09-10 17:26:06 -0500] Sync Log:  Failed: The source file /host_sync/.docker-sync/daemon.log
+[2018-09-10 17:26:06 -0500] Sync Log:  has been modified during synchronization.  Transfer aborted.
+[2018-09-10 17:26:06 -0500] Sync Log:  [BGN] Updating file .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-09-10 17:26:06 -0500] Sync Log:  [END] Updating file .docker-sync/daemon.pid
+[2018-09-10 17:26:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:26:05.49 on 10 Sep 2018
+[2018-09-10 17:26:06 -0500] Sync Log:  Synchronization incomplete at 17:26:05  (1 item transferred, 0 skipped, 1 failed)
+[2018-09-10 17:26:06 -0500] Sync Log:    failed: .docker-sync/daemon.log
+[2018-09-10 17:26:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:26:07.54 on 10 Sep 2018
+[2018-09-10 17:26:08 -0500] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-09-10 17:26:08 -0500] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-09-10 17:26:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:26:07.54 on 10 Sep 2018
+[2018-09-10 17:26:08 -0500] Sync Log:  Synchronization complete at 17:26:07  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 17:36:47 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:36:47.17 on 10 Sep 2018
+[2018-09-10 17:36:47 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:36:47 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:36:47 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:36:47 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:36:47.17 on 10 Sep 2018
+[2018-09-10 17:36:47 -0500] Sync Log:  Synchronization incomplete at 17:36:47  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:36:47 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:36:48 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:36:48.21 on 10 Sep 2018
+[2018-09-10 17:36:48 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:36:48 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:36:48 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:36:48 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:36:48.21 on 10 Sep 2018
+[2018-09-10 17:36:48 -0500] Sync Log:  Synchronization incomplete at 17:36:48  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:36:48 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:36:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:36:53.21 on 10 Sep 2018
+[2018-09-10 17:36:53 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:36:53 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:36:53 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:36:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:36:53.21 on 10 Sep 2018
+[2018-09-10 17:36:53 -0500] Sync Log:  Synchronization incomplete at 17:36:53  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:36:53 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:37:03 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:37:03.22 on 10 Sep 2018
+[2018-09-10 17:37:03 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:37:03 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:37:03 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:37:03 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:37:03.22 on 10 Sep 2018
+[2018-09-10 17:37:03 -0500] Sync Log:  Synchronization incomplete at 17:37:03  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:37:03 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:48:59 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:48:58.27 on 10 Sep 2018
+[2018-09-10 17:48:59 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:48:59 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:48:59 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:48:59 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:48:58.28 on 10 Sep 2018
+[2018-09-10 17:48:59 -0500] Sync Log:  Synchronization incomplete at 17:48:58  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:48:59 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:49:00 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:48:59.33 on 10 Sep 2018
+[2018-09-10 17:49:00 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:49:00 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:49:00 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:49:00 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:48:59.33 on 10 Sep 2018
+[2018-09-10 17:49:00 -0500] Sync Log:  Synchronization incomplete at 17:48:59  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:49:00 -0500] Sync Log:    failed: composer.json
+[2018-09-10 17:49:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 17:49:04.33 on 10 Sep 2018
+[2018-09-10 17:49:05 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 17:49:05 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 17:49:05 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 17:49:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:49:04.33 on 10 Sep 2018
+[2018-09-10 17:49:05 -0500] Sync Log:  Synchronization incomplete at 17:49:04  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 17:49:05 -0500] Sync Log:    failed: composer.json
+[2018-09-10 18:20:04 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:03.99 on 10 Sep 2018
+[2018-09-10 18:20:04 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:04 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:04 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:04 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:03.99 on 10 Sep 2018
+[2018-09-10 18:20:04 -0500] Sync Log:  Synchronization incomplete at 18:20:04  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:04 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:20:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:05.04 on 10 Sep 2018
+[2018-09-10 18:20:05 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:05 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:05 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:05 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:05.04 on 10 Sep 2018
+[2018-09-10 18:20:05 -0500] Sync Log:  Synchronization incomplete at 18:20:05  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:05 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:20:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:10.05 on 10 Sep 2018
+[2018-09-10 18:20:10 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:10 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:10 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:10.05 on 10 Sep 2018
+[2018-09-10 18:20:10 -0500] Sync Log:  Synchronization incomplete at 18:20:10  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:10 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:20:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:21.05 on 10 Sep 2018
+[2018-09-10 18:20:21 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:21 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:21 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:21.05 on 10 Sep 2018
+[2018-09-10 18:20:21 -0500] Sync Log:  Synchronization incomplete at 18:20:21  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:21 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:20:38 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:38.42 on 10 Sep 2018
+[2018-09-10 18:20:38 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:38 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:38 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:38 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:38.42 on 10 Sep 2018
+[2018-09-10 18:20:39 -0500] Sync Log:  Synchronization incomplete at 18:20:38  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:39 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:20:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:20:41.05 on 10 Sep 2018
+[2018-09-10 18:20:41 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:20:41 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:20:41 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:20:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:20:41.05 on 10 Sep 2018
+[2018-09-10 18:20:41 -0500] Sync Log:  Synchronization incomplete at 18:20:41  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:20:41 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:21:18 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:21:18.04 on 10 Sep 2018
+[2018-09-10 18:21:18 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:21:18 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:21:18 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:21:18 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:21:18.04 on 10 Sep 2018
+[2018-09-10 18:21:18 -0500] Sync Log:  Synchronization incomplete at 18:21:18  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:21:18 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:21:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:21:21.06 on 10 Sep 2018
+[2018-09-10 18:21:21 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:21:21 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:21:21 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:21:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:21:21.06 on 10 Sep 2018
+[2018-09-10 18:21:21 -0500] Sync Log:  Synchronization incomplete at 18:21:21  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:21:21 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:22:42 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:22:42.05 on 10 Sep 2018
+[2018-09-10 18:22:42 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:22:42 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:22:42 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:22:42 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:22:42.05 on 10 Sep 2018
+[2018-09-10 18:22:42 -0500] Sync Log:  Synchronization incomplete at 18:22:42  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:22:42 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:25:23 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:25:22.95 on 10 Sep 2018
+[2018-09-10 18:25:23 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:25:23 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:25:23 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:25:23 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:25:22.95 on 10 Sep 2018
+[2018-09-10 18:25:23 -0500] Sync Log:  Synchronization incomplete at 18:25:22  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:25:23 -0500] Sync Log:    failed: .vscode
+[2018-09-10 18:30:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 18:30:43.80 on 10 Sep 2018
+[2018-09-10 18:30:43 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 18:30:43 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 18:30:43 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 18:30:43 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 18:30:43.80 on 10 Sep 2018
+[2018-09-10 18:30:43 -0500] Sync Log:  Synchronization incomplete at 18:30:43  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 18:30:43 -0500] Sync Log:    failed: .vscode
+[2018-09-10 19:38:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:38:45.42 on 10 Sep 2018
+[2018-09-10 19:38:45 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 19:38:45 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 19:38:45 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:38:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:38:45.42 on 10 Sep 2018
+[2018-09-10 19:38:45 -0500] Sync Log:  Synchronization incomplete at 19:38:45  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:38:45 -0500] Sync Log:    failed: .vscode
+[2018-09-10 19:51:51 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:51:51.15 on 10 Sep 2018
+[2018-09-10 19:51:51 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:51:51 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:51:51 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:51:51 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:51:51.15 on 10 Sep 2018
+[2018-09-10 19:51:51 -0500] Sync Log:  Synchronization incomplete at 19:51:51  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:51:51 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:51:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:51:52.19 on 10 Sep 2018
+[2018-09-10 19:51:52 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:51:52 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:51:52 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:51:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:51:52.19 on 10 Sep 2018
+[2018-09-10 19:51:52 -0500] Sync Log:  Synchronization incomplete at 19:51:52  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:51:52 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:51:57 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:51:57.20 on 10 Sep 2018
+[2018-09-10 19:51:57 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:51:57 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:51:57 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:51:57 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:51:57.20 on 10 Sep 2018
+[2018-09-10 19:51:57 -0500] Sync Log:  Synchronization incomplete at 19:51:57  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:51:57 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:52:01 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:01.34 on 10 Sep 2018
+[2018-09-10 19:52:01 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:52:01 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:01 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:01 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:01.34 on 10 Sep 2018
+[2018-09-10 19:52:01 -0500] Sync Log:  Synchronization incomplete at 19:52:01  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:01 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:52:07 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:07.07 on 10 Sep 2018
+[2018-09-10 19:52:07 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:52:07 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:07 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:07 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:07.07 on 10 Sep 2018
+[2018-09-10 19:52:07 -0500] Sync Log:  Synchronization incomplete at 19:52:07  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:07 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:52:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:08.12 on 10 Sep 2018
+[2018-09-10 19:52:08 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:52:08 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:08 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:08 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:52:08 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:08 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:08.12 on 10 Sep 2018
+[2018-09-10 19:52:08 -0500] Sync Log:  Synchronization incomplete at 19:52:08  (0 items transferred, 0 skipped, 2 failed)
+[2018-09-10 19:52:08 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:52:08 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:52:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:19.12 on 10 Sep 2018
+[2018-09-10 19:52:19 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:52:19 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:19 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:19.12 on 10 Sep 2018
+[2018-09-10 19:52:19 -0500] Sync Log:  Synchronization incomplete at 19:52:19  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:19 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:52:27 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:26.93 on 10 Sep 2018
+[2018-09-10 19:52:27 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:52:27 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:27 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:27 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:26.93 on 10 Sep 2018
+[2018-09-10 19:52:27 -0500] Sync Log:  Synchronization incomplete at 19:52:26  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:27 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:52:28 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:28.11 on 10 Sep 2018
+[2018-09-10 19:52:28 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:52:28 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:28 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:28 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:28.12 on 10 Sep 2018
+[2018-09-10 19:52:28 -0500] Sync Log:  Synchronization incomplete at 19:52:28  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:28 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:52:35 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:35.85 on 10 Sep 2018
+[2018-09-10 19:52:35 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:52:35 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:35 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:35 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:35.85 on 10 Sep 2018
+[2018-09-10 19:52:35 -0500] Sync Log:  Synchronization incomplete at 19:52:35  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:35 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:52:39 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:52:39.12 on 10 Sep 2018
+[2018-09-10 19:52:39 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:52:39 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:52:39 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:52:39 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:52:39.12 on 10 Sep 2018
+[2018-09-10 19:52:39 -0500] Sync Log:  Synchronization incomplete at 19:52:39  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:52:39 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:53:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:53:08.13 on 10 Sep 2018
+[2018-09-10 19:53:08 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:53:08 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:53:08 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:53:08 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:53:08.13 on 10 Sep 2018
+[2018-09-10 19:53:08 -0500] Sync Log:  Synchronization incomplete at 19:53:08  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:53:08 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:53:20 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:53:20.12 on 10 Sep 2018
+[2018-09-10 19:53:20 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:53:20 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:53:20 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:53:20 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:53:20.12 on 10 Sep 2018
+[2018-09-10 19:53:20 -0500] Sync Log:  Synchronization incomplete at 19:53:20  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:53:20 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:53:55 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:53:55.55 on 10 Sep 2018
+[2018-09-10 19:53:55 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:53:55 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:53:55 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:53:55 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:53:55.55 on 10 Sep 2018
+[2018-09-10 19:53:55 -0500] Sync Log:  Synchronization incomplete at 19:53:55  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:53:55 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:54:11 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:54:11.45 on 10 Sep 2018
+[2018-09-10 19:54:11 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:54:11 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:54:11 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:54:11 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:54:11.45 on 10 Sep 2018
+[2018-09-10 19:54:11 -0500] Sync Log:  Synchronization incomplete at 19:54:11  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:54:11 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:54:28 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:54:28.14 on 10 Sep 2018
+[2018-09-10 19:54:28 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:54:28 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:54:28 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:54:28 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:54:28.14 on 10 Sep 2018
+[2018-09-10 19:54:28 -0500] Sync Log:  Synchronization incomplete at 19:54:28  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:54:28 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:54:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:54:40.13 on 10 Sep 2018
+[2018-09-10 19:54:41 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:54:41 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:54:41 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:54:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:54:40.14 on 10 Sep 2018
+[2018-09-10 19:54:41 -0500] Sync Log:  Synchronization incomplete at 19:54:40  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:54:41 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:56:09 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:56:08.24 on 10 Sep 2018
+[2018-09-10 19:56:09 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:56:09 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:56:09 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:56:09 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:56:08.25 on 10 Sep 2018
+[2018-09-10 19:56:09 -0500] Sync Log:  Synchronization incomplete at 19:56:08  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:56:09 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:56:32 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:56:31.70 on 10 Sep 2018
+[2018-09-10 19:56:32 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:56:32 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:56:32 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:56:32 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:56:31.70 on 10 Sep 2018
+[2018-09-10 19:56:32 -0500] Sync Log:  Synchronization incomplete at 19:56:31  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:56:32 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 19:57:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:57:09.14 on 10 Sep 2018
+[2018-09-10 19:57:10 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 19:57:10 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:57:10 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:57:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:57:09.14 on 10 Sep 2018
+[2018-09-10 19:57:10 -0500] Sync Log:  Synchronization incomplete at 19:57:09  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:57:10 -0500] Sync Log:    failed: composer.json
+[2018-09-10 19:57:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 19:57:21.13 on 10 Sep 2018
+[2018-09-10 19:57:22 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 19:57:22 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 19:57:22 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 19:57:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 19:57:21.13 on 10 Sep 2018
+[2018-09-10 19:57:22 -0500] Sync Log:  Synchronization incomplete at 19:57:21  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 19:57:22 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 20:00:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:00:05.42 on 10 Sep 2018
+[2018-09-10 20:00:06 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 20:00:06 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 20:00:06 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:00:06 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:00:05.42 on 10 Sep 2018
+[2018-09-10 20:00:06 -0500] Sync Log:  Synchronization incomplete at 20:00:05  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:00:06 -0500] Sync Log:    failed: .vscode
+[2018-09-10 20:02:30 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:02:30.15 on 10 Sep 2018
+[2018-09-10 20:02:30 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 20:02:30 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 20:02:30 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:02:30 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:02:30.15 on 10 Sep 2018
+[2018-09-10 20:02:30 -0500] Sync Log:  Synchronization incomplete at 20:02:30  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:02:30 -0500] Sync Log:    failed: composer.json
+[2018-09-10 20:02:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:02:41.14 on 10 Sep 2018
+[2018-09-10 20:02:41 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 20:02:41 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 20:02:41 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:02:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:02:41.14 on 10 Sep 2018
+[2018-09-10 20:02:41 -0500] Sync Log:  Synchronization incomplete at 20:02:41  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:02:41 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 20:42:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:42:52.45 on 10 Sep 2018
+[2018-09-10 20:42:53 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 20:42:53 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 20:42:53 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:42:53 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 20:42:53 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 20:42:53 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:42:53 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 20:42:53 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 20:42:53 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:42:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:42:52.45 on 10 Sep 2018
+[2018-09-10 20:42:53 -0500] Sync Log:  Synchronization incomplete at 20:42:52  (0 items transferred, 0 skipped, 3 failed)
+[2018-09-10 20:42:53 -0500] Sync Log:    failed: .vscode
+[2018-09-10 20:42:53 -0500] Sync Log:    failed: composer.json
+[2018-09-10 20:42:53 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 20:43:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:43:09.58 on 10 Sep 2018
+[2018-09-10 20:43:10 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 20:43:10 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 20:43:10 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:43:10 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:43:09.59 on 10 Sep 2018
+[2018-09-10 20:43:10 -0500] Sync Log:  Synchronization incomplete at 20:43:09  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:43:10 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 20:44:26 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:44:26.18 on 10 Sep 2018
+[2018-09-10 20:44:26 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 20:44:26 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 20:44:26 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:44:26 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:44:26.18 on 10 Sep 2018
+[2018-09-10 20:44:26 -0500] Sync Log:  Synchronization incomplete at 20:44:26  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:44:26 -0500] Sync Log:    failed: .vscode
+[2018-09-10 20:51:50 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:51:50.56 on 10 Sep 2018
+[2018-09-10 20:51:50 -0500] Sync Log:  [BGN] Copying vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 20:51:50 -0500] Sync Log:  [END] Copying vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 20:51:50 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:51:50.56 on 10 Sep 2018
+[2018-09-10 20:51:50 -0500] Sync Log:  Synchronization complete at 20:51:50  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 20:52:09 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:52:09.08 on 10 Sep 2018
+[2018-09-10 20:52:09 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 20:52:09 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 20:52:09 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:52:09.08 on 10 Sep 2018
+[2018-09-10 20:52:09 -0500] Sync Log:  Synchronization complete at 20:52:09  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 20:57:03 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:57:02.56 on 10 Sep 2018
+[2018-09-10 20:57:03 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 20:57:03 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 20:57:03 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 20:57:03 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:57:02.56 on 10 Sep 2018
+[2018-09-10 20:57:03 -0500] Sync Log:  Synchronization incomplete at 20:57:02  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 20:57:03 -0500] Sync Log:    failed: .vscode
+[2018-09-10 21:02:39 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:02:38.39 on 10 Sep 2018
+[2018-09-10 21:02:39 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 21:02:39 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 21:02:39 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:02:38.39 on 10 Sep 2018
+[2018-09-10 21:02:39 -0500] Sync Log:  Synchronization complete at 21:02:38  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:03:25 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:03:24.90 on 10 Sep 2018
+[2018-09-10 21:03:25 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 21:03:25 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 21:03:25 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:03:24.90 on 10 Sep 2018
+[2018-09-10 21:03:25 -0500] Sync Log:  Synchronization complete at 21:03:24  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:04:12 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:04:12.47 on 10 Sep 2018
+[2018-09-10 21:04:12 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 21:04:12 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 21:04:12 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:04:12 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 21:04:12 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 21:04:12 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:04:12 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:04:12.47 on 10 Sep 2018
+[2018-09-10 21:04:12 -0500] Sync Log:  Synchronization incomplete at 21:04:12  (0 items transferred, 0 skipped, 2 failed)
+[2018-09-10 21:04:12 -0500] Sync Log:    failed: composer.json
+[2018-09-10 21:04:12 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 21:05:17 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:05:16.68 on 10 Sep 2018
+[2018-09-10 21:05:17 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 21:05:17 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 21:05:17 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:05:16.68 on 10 Sep 2018
+[2018-09-10 21:05:17 -0500] Sync Log:  Synchronization complete at 21:05:16  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:05:47 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:05:47.44 on 10 Sep 2018
+[2018-09-10 21:05:47 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 21:05:47 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 21:05:47 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:05:47.44 on 10 Sep 2018
+[2018-09-10 21:05:47 -0500] Sync Log:  Synchronization complete at 21:05:47  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:05:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:05:53.19 on 10 Sep 2018
+[2018-09-10 21:05:53 -0500] Sync Log:  [BGN] Updating file web/autoload.php from /host_sync to /app_sync
+[2018-09-10 21:05:53 -0500] Sync Log:  [END] Updating file web/autoload.php
+[2018-09-10 21:05:53 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:05:53.19 on 10 Sep 2018
+[2018-09-10 21:05:53 -0500] Sync Log:  Synchronization complete at 21:05:53  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:07:55 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:07:55.19 on 10 Sep 2018
+[2018-09-10 21:07:55 -0500] Sync Log:  [BGN] Updating file web/index.php from /host_sync to /app_sync
+[2018-09-10 21:07:55 -0500] Sync Log:  [END] Updating file web/index.php
+[2018-09-10 21:07:55 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:07:55.19 on 10 Sep 2018
+[2018-09-10 21:07:55 -0500] Sync Log:  Synchronization complete at 21:07:55  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:07:59 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:07:59.49 on 10 Sep 2018
+[2018-09-10 21:07:59 -0500] Sync Log:  [BGN] Updating file web/index.php from /host_sync to /app_sync
+[2018-09-10 21:07:59 -0500] Sync Log:  [END] Updating file web/index.php
+[2018-09-10 21:07:59 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:07:59.49 on 10 Sep 2018
+[2018-09-10 21:07:59 -0500] Sync Log:  Synchronization complete at 21:07:59  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:09:15 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:09:15.13 on 10 Sep 2018
+[2018-09-10 21:09:15 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 21:09:15 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 21:09:15 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:09:15 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:09:15.13 on 10 Sep 2018
+[2018-09-10 21:09:15 -0500] Sync Log:  Synchronization incomplete at 21:09:15  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 21:09:15 -0500] Sync Log:    failed: .vscode
+[2018-09-10 21:12:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:12:52.44 on 10 Sep 2018
+[2018-09-10 21:12:52 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 21:12:52 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 21:12:52 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:12:52 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:12:52.44 on 10 Sep 2018
+[2018-09-10 21:12:52 -0500] Sync Log:  Synchronization incomplete at 21:12:52  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 21:12:52 -0500] Sync Log:    failed: .vscode
+[2018-09-10 21:19:58 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:19:57.84 on 10 Sep 2018
+[2018-09-10 21:19:58 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 21:19:58 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 21:19:58 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:19:57.85 on 10 Sep 2018
+[2018-09-10 21:19:58 -0500] Sync Log:  Synchronization complete at 21:19:57  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-10 21:39:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:39:45.55 on 10 Sep 2018
+[2018-09-10 21:39:46 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 21:39:46 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 21:39:46 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:39:46 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 21:39:46 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 21:39:46 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:39:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:39:45.56 on 10 Sep 2018
+[2018-09-10 21:39:46 -0500] Sync Log:  Synchronization incomplete at 21:39:45  (0 items transferred, 0 skipped, 2 failed)
+[2018-09-10 21:39:46 -0500] Sync Log:    failed: composer.json
+[2018-09-10 21:39:46 -0500] Sync Log:    failed: composer.lock
+[2018-09-10 21:56:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 21:56:21.76 on 10 Sep 2018
+[2018-09-10 21:56:21 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 21:56:21 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 21:56:21 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 21:56:21 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 21:56:21.76 on 10 Sep 2018
+[2018-09-10 21:56:21 -0500] Sync Log:  Synchronization incomplete at 21:56:21  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-10 21:56:21 -0500] Sync Log:    failed: .vscode
+[2018-09-10 23:58:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:58:45.03 on 10 Sep 2018
+[2018-09-10 23:58:45 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-10 23:58:45 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-10 23:58:45 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 23:58:45 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-10 23:58:45 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 23:58:45 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 23:58:45 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-10 23:58:45 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-10 23:58:45 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-10 23:58:45 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-10 23:58:45 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-10 23:58:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:58:45.03 on 10 Sep 2018
+[2018-09-10 23:58:45 -0500] Sync Log:  Synchronization incomplete at 23:58:45  (1 item transferred, 0 skipped, 3 failed)
+[2018-09-10 23:58:45 -0500] Sync Log:    failed: .vscode
+[2018-09-10 23:58:45 -0500] Sync Log:    failed: composer.json
+[2018-09-10 23:58:45 -0500] Sync Log:    failed: composer.lock
+[2018-09-11 00:02:26 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:02:26.18 on 11 Sep 2018
+[2018-09-11 00:02:26 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-11 00:02:26 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-11 00:02:26 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:02:26 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:02:26.18 on 11 Sep 2018
+[2018-09-11 00:02:26 -0500] Sync Log:  Synchronization incomplete at 00:02:26  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:02:26 -0500] Sync Log:    failed: composer.json
+[2018-09-11 00:02:36 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:02:36.16 on 11 Sep 2018
+[2018-09-11 00:02:36 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect from /host_sync to /app_sync
+[2018-09-11 00:02:36 -0500] Sync Log:  [END] Copying vendor/dealerdirect
+[2018-09-11 00:02:36 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:02:36.16 on 11 Sep 2018
+[2018-09-11 00:02:36 -0500] Sync Log:  Synchronization complete at 00:02:36  (1 item transferred, 0 skipped, 0 failed)
+[2018-09-11 00:02:37 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:02:37.22 on 11 Sep 2018
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Updating file vendor/composer/installed.json from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Updating file vendor/composer/installed.json
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/LICENSE.md from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/LICENSE.md
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/README.md from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/README.md
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/composer.json from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/composer.json
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/phpcs.xml.dist from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/phpcs.xml.dist
+[2018-09-11 00:02:37 -0500] Sync Log:  [BGN] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/src from /host_sync to /app_sync
+[2018-09-11 00:02:37 -0500] Sync Log:  [END] Copying vendor/dealerdirect/phpcodesniffer-composer-installer/src
+[2018-09-11 00:02:37 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:02:37.23 on 11 Sep 2018
+[2018-09-11 00:02:37 -0500] Sync Log:  Synchronization complete at 00:02:37  (6 items transferred, 0 skipped, 0 failed)
+[2018-09-11 00:02:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:02:45.33 on 11 Sep 2018
+[2018-09-11 00:02:45 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-11 00:02:45 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-11 00:02:45 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:02:45 -0500] Sync Log:  [BGN] Updating file vendor/composer/autoload_psr4.php from /host_sync to /app_sync
+[2018-09-11 00:02:45 -0500] Sync Log:  [END] Updating file vendor/composer/autoload_psr4.php
+[2018-09-11 00:02:45 -0500] Sync Log:  [BGN] Updating file vendor/composer/autoload_static.php from /host_sync to /app_sync
+[2018-09-11 00:02:45 -0500] Sync Log:  [END] Updating file vendor/composer/autoload_static.php
+[2018-09-11 00:02:45 -0500] Sync Log:  [BGN] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf from /host_sync to /app_sync
+[2018-09-11 00:02:45 -0500] Sync Log:  [END] Updating file vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+[2018-09-11 00:02:45 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:02:45.33 on 11 Sep 2018
+[2018-09-11 00:02:45 -0500] Sync Log:  Synchronization incomplete at 00:02:45  (3 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:02:45 -0500] Sync Log:    failed: composer.lock
+[2018-09-11 00:07:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:07:41.48 on 11 Sep 2018
+[2018-09-11 00:07:41 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:07:41 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:07:41 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:07:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:07:41.48 on 11 Sep 2018
+[2018-09-11 00:07:41 -0500] Sync Log:  Synchronization incomplete at 00:07:41  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:07:41 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:07:56 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:07:56.63 on 11 Sep 2018
+[2018-09-11 00:07:56 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:07:56 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:07:56 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:07:56 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:07:56.63 on 11 Sep 2018
+[2018-09-11 00:07:56 -0500] Sync Log:  Synchronization incomplete at 00:07:56  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:07:56 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:26:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:26:18.52 on 11 Sep 2018
+[2018-09-11 00:26:19 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:26:19 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:26:19 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:26:19 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:26:18.52 on 11 Sep 2018
+[2018-09-11 00:26:19 -0500] Sync Log:  Synchronization incomplete at 00:26:18  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:26:19 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:26:54 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:26:54.13 on 11 Sep 2018
+[2018-09-11 00:26:54 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:26:54 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:26:54 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:26:54 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:26:54.13 on 11 Sep 2018
+[2018-09-11 00:26:55 -0500] Sync Log:  Synchronization incomplete at 00:26:54  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:26:55 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:28:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:28:46.02 on 11 Sep 2018
+[2018-09-11 00:28:46 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:28:46 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:28:46 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:28:46 -0500] Sync Log:  [BGN] Updating file composer.json from /host_sync to /app_sync
+[2018-09-11 00:28:46 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-11 00:28:46 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.json.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:28:46 -0500] Sync Log:  [BGN] Updating file composer.lock from /host_sync to /app_sync
+[2018-09-11 00:28:46 -0500] Sync Log:  Failed: Error in copying locally:
+[2018-09-11 00:28:46 -0500] Sync Log:  Permission denied [open(/app_sync/.unison.composer.lock.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:28:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:28:46.02 on 11 Sep 2018
+[2018-09-11 00:28:46 -0500] Sync Log:  Synchronization incomplete at 00:28:46  (0 items transferred, 0 skipped, 3 failed)
+[2018-09-11 00:28:46 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:28:46 -0500] Sync Log:    failed: composer.json
+[2018-09-11 00:28:46 -0500] Sync Log:    failed: composer.lock
+[2018-09-11 00:30:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:30:21.31 on 11 Sep 2018
+[2018-09-11 00:30:22 -0500] Sync Log:  [BGN] Copying .vscode from /host_sync to /app_sync
+[2018-09-11 00:30:22 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:30:22 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..vscode.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:30:22 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:30:21.31 on 11 Sep 2018
+[2018-09-11 00:30:22 -0500] Sync Log:  Synchronization incomplete at 00:30:21  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:30:22 -0500] Sync Log:    failed: .vscode
+[2018-09-11 00:43:40 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:43:40.22 on 11 Sep 2018
+[2018-09-11 00:43:40 -0500] Sync Log:  [BGN] Copying .git from /host_sync to /app_sync
+[2018-09-11 00:43:40 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:43:40 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..git.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:43:40 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:43:40.22 on 11 Sep 2018
+[2018-09-11 00:43:40 -0500] Sync Log:  Synchronization incomplete at 00:43:40  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:43:40 -0500] Sync Log:    failed: .git
+[2018-09-11 00:43:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:43:41.28 on 11 Sep 2018
+[2018-09-11 00:43:41 -0500] Sync Log:  [BGN] Copying .git from /host_sync to /app_sync
+[2018-09-11 00:43:41 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:43:41 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..git.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:43:41 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:43:41.28 on 11 Sep 2018
+[2018-09-11 00:43:41 -0500] Sync Log:  Synchronization incomplete at 00:43:41  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:43:41 -0500] Sync Log:    failed: .git
+[2018-09-11 00:43:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:43:46.29 on 11 Sep 2018
+[2018-09-11 00:43:46 -0500] Sync Log:  [BGN] Copying .git from /host_sync to /app_sync
+[2018-09-11 00:43:46 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:43:46 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..git.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:43:46 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:43:46.29 on 11 Sep 2018
+[2018-09-11 00:43:46 -0500] Sync Log:  Synchronization incomplete at 00:43:46  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:43:46 -0500] Sync Log:    failed: .git
+[2018-09-11 00:43:56 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 00:43:56.30 on 11 Sep 2018
+[2018-09-11 00:43:56 -0500] Sync Log:  [BGN] Copying .git from /host_sync to /app_sync
+[2018-09-11 00:43:56 -0500] Sync Log:  Failed: Error in creating directory:
+[2018-09-11 00:43:56 -0500] Sync Log:  Permission denied [mkdir(/app_sync/.unison..git.da2fa1e6dd93b4f646683b71040bae08.unison.tmp)]
+[2018-09-11 00:43:56 -0500] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 00:43:56.30 on 11 Sep 2018
+[2018-09-11 00:43:56 -0500] Sync Log:  Synchronization incomplete at 00:43:56  (0 items transferred, 0 skipped, 1 failed)
+[2018-09-11 00:43:56 -0500] Sync Log:    failed: .git

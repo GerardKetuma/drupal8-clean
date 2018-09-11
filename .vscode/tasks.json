@@ -1,0 +1,41 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Drupal PHPCS",
+      "type": "shell",
+      "command": "./vendor/bin/phpcbf",
+      "args": [
+        "--standard=Drupal,DrupalPractice",
+        "--ignore-annotations",
+        "--extensions=php,module,inc,install,test,profile,theme,css,info,txt,md",
+        "--tab-width=2",
+        "-vvv", // very verbose
+        "${file}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "DrupalPractice PHPCS",
+      "type": "shell",
+      "command": "./vendor/bin/phpcbf",
+      "args": [
+        "--standard=DrupalPractice",
+        "--ignore-annotations",
+        "--extensions=php,module,inc,install,test,profile,theme,css,info,txt,md",
+        "--tab-width=2",
+        "-vvv", // very verbose
+        "${file}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}
